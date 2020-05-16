@@ -38,7 +38,13 @@
       crossorigin="anonymous"
     ></script>
     <script src="password.js">
-      let password
+            let password
+            let secretPassword
+
+            window.onload = function() {
+
+         document.getElementById("secretPassword").innerHTML=splitText;
+      }
     </script>
   </head>
 
@@ -104,9 +110,7 @@
               </h5>
             </div>
             <div class="modal-body">
-              <p id="rockText" class="hideNow">
-                INTERMEDIATE PROGRAM GIRLS ROCK!
-              </p>
+              <p id="rockText" class="hideNow secretPassword"></p>
               <div
                 id="spinner"
                 class="spinner-border ml-auto showNow"
