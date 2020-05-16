@@ -160,7 +160,7 @@ a {
   .backContainer {
     position: relative;
     bottom: 70px;
-    left: -120px;
+    left: -150px;
   }
   .logoContainer {
     position: relative;
@@ -192,5 +192,8 @@ a {
     bottom: -190px;
     left: 10px;
     width: 100px;
+  }
+  .square-root {
+    font-size: 20px;
   }
 }
