@@ -168,7 +168,7 @@ a {
   .logoContainer-index {
     display: absolute !important;
     bottom: 30px;
-    right: -150px;
+    right: -90px;
   }
   .logoContainer-clue-1 {
     display: absolute !important;
@@ -184,7 +184,7 @@ a {
   }
   .get-clue-button {
     position: absolute;
-    bottom: -150px;
+    bottom: -1500px;
     left: 10px;
   }
   .clue-1-button {
