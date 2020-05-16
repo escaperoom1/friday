@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.mondayContainer {
+.fridayContainer {
   padding: 50px;
   margin: 50px;
   font-family: "Josefin Sans", sans-serif;
@@ -11,7 +11,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 90vh;
+  height: 100%;
   color: white;
   display: flex;
   justify-content: center;
